@@ -6,7 +6,7 @@ menuIcon.addEventListener('click', ()=>{
 });
 
 var typed = new Typed(".animated-text", {
-    strings : ['Frontend Devloper','programmer', 'web Devloper'],
+    strings : ['Devops engineer','Cloud Engineer', 'Infrastructure Engineer'],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
